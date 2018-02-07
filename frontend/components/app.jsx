@@ -7,18 +7,18 @@ import {
   Link,
   HashRouter
 } from 'react-router-dom';
+import { ProtectedRoute } from '../util/route_util';
 
-// Component imports
-import MenuContainer from './menu/menu_container';
-import HomeContainer from './homepage/home_container'
+import Menu from './menu/menu_container';
+import Home from './homepage/home_container'
 
 const App = () => (
   <div id="app">
     <header className="app-header">
-        <Route path="/" component={ MenuContainer } />
+      <Route path="/" component={Menu} />
     </header>
     <Switch>
-      <Route exact path="/" component={ MenuContainer } />
+      <Route exact path="/" component={ Home } />
 
     </Switch>
   </div>
