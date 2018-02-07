@@ -18,8 +18,8 @@ const App = () => (
         <Route path="/" component={ MenuContainer } />
     </header>
     <Switch>
-      <Route exact path="/" component={ HomeContainer } />
-      <Route exact path="/login" component={  } />
+      <Route exact path="/" component={ MenuContainer } />
+
     </Switch>
   </div>
 );
