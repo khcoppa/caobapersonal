@@ -29072,9 +29072,13 @@ var Home = function (_React$Component) {
         'div',
         { className: 'home' },
         _react2.default.createElement(
-          'h3',
-          null,
-          'Home'
+          'div',
+          { className: 'section1' },
+          _react2.default.createElement(
+            'h3',
+            null,
+            'Home'
+          )
         ),
         _react2.default.createElement(
           'p',
