@@ -30,6 +30,7 @@ gem 'bcrypt'
 gem 'font-awesome-sass'
 gem 'jquery-rails'
 gem 'geocoder'
+gem 'turbolinks'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
