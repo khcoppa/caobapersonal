@@ -9,8 +9,10 @@ import {
 } from 'react-router-dom';
 import { ProtectedRoute } from '../util/route_util';
 
+// Components
 import Menu from './menu/menu_container';
-import Home from './home/home_container'
+import Home from './home/home_container';
+import Login from './login/login_container';
 
 const App = () => (
   <div id="app">
@@ -19,6 +21,7 @@ const App = () => (
     </header>
     <Switch>
       <Route exact path="/" component={ Home } />
+      <Route exact path="/login" component={ Login } />
 
     </Switch>
   </div>

@@ -13,7 +13,7 @@ class Menu extends React.Component {
         </ul>
         <ul className = "menu_protected">
           <li><a href="/">Join</a></li>
-          <li><a href="/">Login</a></li>
+          <li><a href="/login">Login</a></li>
           <li><a href="/">Book Session</a></li>
         </ul>
       </div>
