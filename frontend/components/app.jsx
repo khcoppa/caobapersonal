@@ -10,7 +10,7 @@ import {
 import { ProtectedRoute } from '../util/route_util';
 
 import Menu from './menu/menu_container';
-import Home from './homepage/home_container'
+import Home from './home/home_container'
 
 const App = () => (
   <div id="app">
