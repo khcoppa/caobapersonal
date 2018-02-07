@@ -1,0 +1,35 @@
+.menu {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  text-align: center;
+  background-image: url("blacksand.jpeg");
+}
+
+
+.menu ul {
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+.menu li {
+  list-style: none;
+  display: inline-block;
+  margin-top: 22px;
+  margin-left: 15px;
+}
+.menu a {
+  font-size: 16px;
+  color: #eee;
+  display: block;
+  font-weight: bold;
+  margin: 0;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+.menu a:hover {
+  background-color: #2D89E5;
+}

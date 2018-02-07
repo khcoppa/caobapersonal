@@ -26535,22 +26535,38 @@ var Menu = function (_React$Component) {
           _react2.default.createElement(
             'li',
             null,
-            'TRAINING'
+            _react2.default.createElement(
+              'a',
+              { href: '/' },
+              'Training'
+            )
           ),
           _react2.default.createElement(
             'li',
             null,
-            'ABOUT'
+            _react2.default.createElement(
+              'a',
+              { href: '/' },
+              'About'
+            )
           ),
           _react2.default.createElement(
             'li',
             null,
-            'MEET MASTER'
+            _react2.default.createElement(
+              'a',
+              { href: '/' },
+              'Meet Master'
+            )
           ),
           _react2.default.createElement(
             'li',
             null,
-            'CAOBA'
+            _react2.default.createElement(
+              'a',
+              { href: '/' },
+              'Caoba'
+            )
           )
         ),
         _react2.default.createElement(
@@ -26559,17 +26575,29 @@ var Menu = function (_React$Component) {
           _react2.default.createElement(
             'li',
             null,
-            'JOIN'
+            _react2.default.createElement(
+              'a',
+              { href: '/' },
+              'Join'
+            )
           ),
           _react2.default.createElement(
             'li',
             null,
-            'LOGIN'
+            _react2.default.createElement(
+              'a',
+              { href: '/' },
+              'Login'
+            )
           ),
           _react2.default.createElement(
             'li',
             null,
-            'BOOK SESSION'
+            _react2.default.createElement(
+              'a',
+              { href: '/' },
+              'Book Session'
+            )
           )
         )
       );
@@ -29047,6 +29075,11 @@ var Home = function (_React$Component) {
           'h3',
           null,
           'Home'
+        ),
+        _react2.default.createElement(
+          'p',
+          null,
+          'Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph. Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph. Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph. Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph. Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph. Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph. Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph. Paragraphs are the building blocks of papers. Many students define paragraphs in terms of length: a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence of ideas among sentences is what constitutes a paragraph. A paragraph is defined as \u201Ca group of sentences or a single sentence that forms a unit\u201D (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long. Ultimately, a paragraph is a sentence or group of sentences that support one main idea. In this handout, we will refer to this as the \u201Ccontrolling idea,\u201D because it controls what happens in the rest of the paragraph.'
         )
       );
     }

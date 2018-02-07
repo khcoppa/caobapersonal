@@ -6,15 +6,15 @@ class Menu extends React.Component {
     return (
       <div className="menu">
         <ul className="menu_public">
-          <li>TRAINING</li>
-          <li>ABOUT</li>
-          <li>MEET MASTER</li>
-          <li>CAOBA</li>
+          <li><a href="/">Training</a></li>
+          <li><a href="/">About</a></li>
+          <li><a href="/">Meet Master</a></li>
+          <li><a href="/">Caoba</a></li>
         </ul>
         <ul className = "menu_protected">
-          <li>JOIN</li>
-          <li>LOGIN</li>
-          <li>BOOK SESSION</li>
+          <li><a href="/">Join</a></li>
+          <li><a href="/">Login</a></li>
+          <li><a href="/">Book Session</a></li>
         </ul>
       </div>
     );
