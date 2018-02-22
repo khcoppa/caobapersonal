@@ -8,7 +8,9 @@ class User < ApplicationRecord
   attr_reader :password
 
   # assocations
-  has_many :bookings
+  has_many :bookings,
+    foreign_key: :booker_id,
+    class_name: 'Booking'
   #
 
   # user model methods
