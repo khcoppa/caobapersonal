@@ -3,9 +3,19 @@
 }
 
 .section1 {
-  height: 400px;
-  background-image: url("beach.jpeg");
+  height: 600px;
+  background-image: url("military-press.jpg");
+  // background-image: url("beach.jpeg");
   background-size: cover;
+
+  h3 {
+    color: white;
+    font-size: 60px;
+    font-weight: lighter;
+    margin: 0 auto;
+    width: fit-content;
+    padding-top: 240px;
+  }
 }
 
 .section2 {
