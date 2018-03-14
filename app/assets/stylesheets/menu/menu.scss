@@ -1,11 +1,12 @@
 .menu {
-  height: 80px;
+  height: 60px;
   width: 100%;
   position: fixed;
   top: 0;
   overflow: hidden;
   text-align: center;
-  background-image: url("blacksand.jpeg");
+  // background-image: url("blacksand.jpeg");
+  background-color: white;
 }
 
 
@@ -22,7 +23,7 @@
 }
 .menu a {
   font-size: 16px;
-  color: #eee;
+  color: gray;
   display: block;
   font-weight: bold;
   margin: 0;
