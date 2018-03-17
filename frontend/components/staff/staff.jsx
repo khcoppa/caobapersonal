@@ -11,6 +11,7 @@ class Staff extends React.Component {
         </div>
 
         <div className="staff-member">
+
           <div className="master-info">
             <h4>Irani Andreati</h4>
             <p>
@@ -19,6 +20,7 @@ class Staff extends React.Component {
           </div>
 
           <div className="master-img">
+          
           </div>
         </div>
 
@@ -27,4 +29,4 @@ class Staff extends React.Component {
   }
 }
 
-export default Home;
+export default Staff;
