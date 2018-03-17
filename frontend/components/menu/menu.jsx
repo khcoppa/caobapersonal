@@ -8,12 +8,12 @@ class Menu extends React.Component {
         <ul className="menu_public">
           <li><a href="/">Training</a></li>
           <li><a href="/">About</a></li>
-          <li><a href="/staff">Meet Master</a></li>
+          <li><a href="#/staff">Meet Master</a></li>
           <li><a href="/">Caoba</a></li>
         </ul>
         <ul className = "menu_protected">
           <li><a href="/">Join</a></li>
-          <li><a href="/login">Login</a></li>
+          <li><a href="#/login">Login</a></li>
           <li><a href="/">Book Session</a></li>
         </ul>
       </div>
