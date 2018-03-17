@@ -26402,8 +26402,13 @@ var _login_container = __webpack_require__(148);
 
 var _login_container2 = _interopRequireDefault(_login_container);
 
+var _staff_container = __webpack_require__(225);
+
+var _staff_container2 = _interopRequireDefault(_staff_container);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+// Components
 var App = function App() {
   return _react2.default.createElement(
     'div',
@@ -26417,12 +26422,12 @@ var App = function App() {
       _reactRouterDom.Switch,
       null,
       _react2.default.createElement(_reactRouterDom.Route, { exact: true, path: '/', component: _home_container2.default }),
-      _react2.default.createElement(_reactRouterDom.Route, { exact: true, path: '/login', component: _login_container2.default })
+      _react2.default.createElement(_reactRouterDom.Route, { exact: true, path: '/login', component: _login_container2.default }),
+      _react2.default.createElement(_reactRouterDom.Route, { exact: true, path: '/staff', component: _staff_container2.default })
     )
   );
 };
 
-// Components
 exports.default = App;
 
 /***/ }),
@@ -29267,6 +29272,13 @@ exports.default = function () {
       return state;
   }
 };
+
+/***/ }),
+/* 225 */
+/***/ (function(module, exports) {
+
+"use strict";
+throw new Error("Module build failed: Error: ENOENT: no such file or directory, open '/Users/kevin/Desktop/caobapersonal/frontend/components/staff/staff_container.jsx'\n    at Error (native)");
 
 /***/ })
 /******/ ]);
