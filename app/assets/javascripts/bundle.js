@@ -26566,7 +26566,7 @@ var Menu = function (_React$Component) {
             null,
             _react2.default.createElement(
               'a',
-              { href: '/' },
+              { href: '/staff' },
               'Meet Master'
             )
           ),
