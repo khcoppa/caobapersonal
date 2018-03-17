@@ -10,11 +10,13 @@ class Staff extends React.Component {
           <h3>CAOBA Personal Staff</h3>
         </div>
 
-        <div className="master">
-          <h4>Irani Andreati</h4>
-          <p>
-          Master Bio
-          </p>
+        <div className="staff-member">
+          <div className="master-info">
+            <h4>Irani Andreati</h4>
+            <p>
+            Master Bio
+            </p>
+          </div>
 
           <div className="master-img">
           </div>
