@@ -19,10 +19,17 @@
 }
 
 .master-info {
-  display: flex;
   float: left;
   width: 50%;
   border: 1px solid gray;
+
+  h4 {
+    margin: 10px;
+  }
+
+  p {
+    margin: 10px;
+  }
 }
 
 .master-img {

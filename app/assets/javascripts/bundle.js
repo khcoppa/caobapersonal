@@ -26547,8 +26547,8 @@ var Menu = function (_React$Component) {
             'li',
             null,
             _react2.default.createElement(
-              'a',
-              { href: '/' },
+              _reactRouterDom.Link,
+              { to: '/training' },
               'Training'
             )
           ),
@@ -26556,8 +26556,8 @@ var Menu = function (_React$Component) {
             'li',
             null,
             _react2.default.createElement(
-              'a',
-              { href: '/' },
+              _reactRouterDom.Link,
+              { to: '/about' },
               'About'
             )
           ),
@@ -26565,17 +26565,17 @@ var Menu = function (_React$Component) {
             'li',
             null,
             _react2.default.createElement(
-              'a',
-              { href: '#/staff' },
-              'Meet Master'
+              _reactRouterDom.Link,
+              { to: '/staff' },
+              'Mestre'
             )
           ),
           _react2.default.createElement(
             'li',
             null,
             _react2.default.createElement(
-              'a',
-              { href: '/' },
+              _reactRouterDom.Link,
+              { to: '/caoba' },
               'Caoba'
             )
           )
@@ -26587,8 +26587,8 @@ var Menu = function (_React$Component) {
             'li',
             null,
             _react2.default.createElement(
-              'a',
-              { href: '/' },
+              _reactRouterDom.Link,
+              { to: '/join' },
               'Join'
             )
           ),
@@ -26596,8 +26596,8 @@ var Menu = function (_React$Component) {
             'li',
             null,
             _react2.default.createElement(
-              'a',
-              { href: '#/login' },
+              _reactRouterDom.Link,
+              { to: '/login' },
               'Login'
             )
           ),
@@ -26605,8 +26605,8 @@ var Menu = function (_React$Component) {
             'li',
             null,
             _react2.default.createElement(
-              'a',
-              { href: '/' },
+              _reactRouterDom.Link,
+              { to: '/book' },
               'Book Session'
             )
           )
