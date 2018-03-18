@@ -18,7 +18,7 @@ import Staff from './staff/staff_container';
 const App = () => (
   <div id="app">
     <header className="app-header">
-      <Route path="/" component={Menu} />
+      <Route path="/" component={ Menu } />
     </header>
     <Switch>
       <Route exact path="/" component={ Home } />

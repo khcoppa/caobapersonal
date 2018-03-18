@@ -1,0 +1,33 @@
+.staff {
+  margin-top: 60px;
+  width: 100%;
+}
+
+.staff-header {
+  width: 100%;
+
+  h3 {
+    color: blue;
+    font-size: 40px;
+    margin: 0 auto;
+    width: auto;
+  }
+}
+
+.staff-member {
+  display: flex;
+}
+
+.master-info {
+  display: flex;
+  float: left;
+  width: 50%;
+  border: 1px solid gray;
+}
+
+.master-img {
+  display: flex;
+  float: right;
+  width: 50%;
+  border: 1px solid gray;
+}
