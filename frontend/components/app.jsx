@@ -13,6 +13,7 @@ import { ProtectedRoute } from '../util/route_util';
 import Menu from './menu/menu_container';
 import Home from './home/home_container';
 import Login from './login/login_container';
+import Join from './join/join_container';
 import Staff from './staff/staff_container';
 
 const App = () => (
@@ -23,6 +24,7 @@ const App = () => (
     <Switch>
       <Route exact path="/" component={ Home } />
       <Route exact path="/login" component={ Login } />
+      <Route exact path="/join" component={ Join } />
       <Route exact path="/staff" component={ Staff } />
 
     </Switch>
